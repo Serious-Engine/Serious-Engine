@@ -54,11 +54,11 @@ This version of the engine comes with a set of resources (`\SE1_10.GRO`) that al
 
 When running a selected project, make sure its project settings on Debugging is set to the right command:
 * For debug:
-    $(SolutionDir)..\Bin\Debug\$(TargetName).exe`
+    `$(SolutionDir)..\Bin\Debug\$(TargetName).exe`
 * For release:
-    $(SolutionDir)..\Bin\$(TargetName).exe`
+    `$(SolutionDir)..\Bin\$(TargetName).exe`
 And its working directory:
-    $(SolutionDir)..\
+    `$(SolutionDir)..\`
 
 Common problems
 ---------------

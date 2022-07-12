@@ -1,0 +1,18 @@
+[submodule "Sources/Base"]
+	path = Sources/Base
+	url = https://github.com/Serious-Engine/Base.git
+[submodule "Sources/Entities"]
+	path = Sources/Entities
+	url = https://github.com/Serious-Engine/Entities.git
+[submodule "Sources/Tools"]
+	path = Sources/Tools
+	url = https://github.com/Serious-Engine/Tools.git
+[submodule "Sources/DedicatedServer"]
+	path = Sources/DedicatedServer
+	url = https://github.com/Serious-Engine/DedicatedServer.git
+[submodule "Sources/GameExecutable"]
+	path = Sources/GameExecutable
+	url = https://github.com/Serious-Engine/GameExecutable.git
+[submodule "Sources/Game"]
+	path = Sources/Game
+	url = https://github.com/Serious-Engine/Game_Mixed.git
